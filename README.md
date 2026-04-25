@@ -28,7 +28,7 @@ Commit message format:
 ```logs: {date} night```
 
 * No GitHub Actions.
-* No branching workflow.
+* No branching workflow.　(Don't be mad. This is not engineering repo)
 * No separate app.
 * No infrastructure to maintain.
 
